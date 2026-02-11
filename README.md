@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://rohitkumarsaw.github.io/My-Portfolio/)
 
-- 👨‍💻 All of my projects are available at [https://rohitkumarsaw.github.io/My_Portfolio/](https://rohitkumarsaw.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://rohitkumarsaw.github.io/My_Portfolio/](https://rohitkumarsaw.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Full Stack Development**
 
