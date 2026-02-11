@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dellofficial6" target="blank"><img src="https://img.shields.io/twitter/follow/dellofficial6?logo=twitter&style=for-the-badge" alt="dellofficial6" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://rohitkumarsaw.github.io/My_Portfolio/)
+- 🔭 I’m currently working on [Personal Portfolio](https://rohitkumarsaw.github.io/My-Portfolio/)
 
 - 👨‍💻 All of my projects are available at [https://rohitkumarsaw.github.io/My_Portfolio/](https://rohitkumarsaw.github.io/My_Portfolio/)
 
